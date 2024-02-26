@@ -28,7 +28,7 @@
 
 - :zap: In my free time, I watch cool videos and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](#)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ReaMamac-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
