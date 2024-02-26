@@ -26,7 +26,7 @@
    I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
 </div>
 
---
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
