@@ -23,6 +23,9 @@
 <div align="center">
    I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
 </div>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
