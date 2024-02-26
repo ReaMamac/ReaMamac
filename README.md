@@ -22,13 +22,13 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Web Design and Development student.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: A passionate coder on a journey of exploration and creation
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I watch cool videos and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
