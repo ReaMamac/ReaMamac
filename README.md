@@ -16,12 +16,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=reamamac&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 align="center">
   Hello World! 🚀 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  Hello World! 🚀 I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
+   I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
 </div>
 
 <!--
