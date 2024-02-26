@@ -1,9 +1,10 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QGoxu7KIgMPvKFP3ze/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/QGoxu7KIgMPvKFP3ze/giphy.gif" width="150px">
 </div>
 
+<div>
+  Hello World! 🚀 I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
+</div>
 
 <!--
 **ReaMamac/ReaMamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
