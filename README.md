@@ -3,17 +3,20 @@
 </div>
 
 <div id="badges" align="center" style="padding: 10px;">
-  <a href="your-linkedin-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=reamamac&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=reamamac&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div align="center">
   Hello World! 🚀 I'm Rea Mamac 👋, a passionate coder on a journey of exploration and creation ✏ . Welcome to my GitHub playground! 👨‍💻
 </div>
