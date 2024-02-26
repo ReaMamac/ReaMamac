@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/PHP/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp
 </div>
 <!--
 **ReaMamac/ReaMamac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
